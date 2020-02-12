@@ -54,6 +54,7 @@
             this.BtnMedia_Aritmetica.TabIndex = 1;
             this.BtnMedia_Aritmetica.Text = "Calcular X";
             this.BtnMedia_Aritmetica.UseVisualStyleBackColor = false;
+            this.BtnMedia_Aritmetica.Click += new System.EventHandler(this.BtnMedia_Aritmetica_Click);
             // 
             // LblRespuesta_Serie
             // 
